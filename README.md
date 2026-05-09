@@ -19,8 +19,8 @@ This project develops predictive models to estimate car prices based on various 
 ## Dataset
 
 Describe your dataset here:
-- **Source**: [Dataset source/link]
-- **Number of records**: [Number of rows]
+- **Source**: [Kaggle]
+- **Number of records**: [Number of rows :1610 , Number of columns:17]
 - **Features**: [List key features - e.g., brand, model, year, mileage, engine size, etc.]
 - **Target variable**: Car price
 
@@ -95,10 +95,6 @@ Car-Price-Prediction/
 
 ### Algorithms Tested
 - Linear Regression
-- Ridge/Lasso Regression
-- Random Forest Regressor
-- Gradient Boosting (XGBoost/LightGBM)
-- [Add other models used]
 
 ### Best Performing Model
 - **Model**: [LinearRegression]
