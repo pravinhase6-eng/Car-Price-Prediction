@@ -101,15 +101,10 @@ Car-Price-Prediction/
 - [Add other models used]
 
 ### Best Performing Model
-- **Model**: [Model name]
-- **R² Score**: [Score]
-- **RMSE**: [Value]
-- **MAE**: [Value]
+- **Model**: [LinearRegression]
+- **R² Score**: [0.89]
+- **RMSE**: [16534.59]
 
-### Key Findings
-- [Key insight 1]
-- [Key insight 2]
-- [Key insight 3]
 
 ## Contributing
 
@@ -121,9 +116,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## Author
 
