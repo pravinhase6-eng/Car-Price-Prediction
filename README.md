@@ -117,7 +117,7 @@ Contributions are welcome! To contribute:
 
 **Pravin Hase**
 - GitHub: [@pravinhase6-eng](https://github.com/pravinhase6-eng)
-- Email: [Your email]
+- Email: [pravinhase6@gmail.com]
 
 ---
 
