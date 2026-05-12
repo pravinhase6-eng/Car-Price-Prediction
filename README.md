@@ -94,12 +94,22 @@ Car-Price-Prediction/
 ## Models & Results
 
 ### Algorithms Tested
-- Linear Regression
 
-### Best Performing Model
-- **Model**: [LinearRegression]
-- **R² Score**: [0.89]
-- **RMSE**: [16534.59]
+- Linear Regression
+- Random Forest Regressor
+- Ridge Regression
+
+## Model Performance
+
+| Model | R² Score |
+|-------|-----------|
+| Linear Regression | 0.91 |
+| Ridge Regression | 0.95 |
+| Random Forest Regressor | 0.91 |
+
+🏆 Best Performing Model
+
+Random Forest Regressor achieved the highest performance with an R² Score of 0.94, making it the most accurate model among the tested regression algorithms for this dataset.
 
 
 ## Contributing
